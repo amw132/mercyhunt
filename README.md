@@ -1,2 +1,0 @@
-# mercyhunt
-hello all
